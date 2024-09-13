@@ -1,9 +1,9 @@
-# NOM PROJET
+# CAPTEUR DE TEMEPERATURE ET RASPBERRY
 
 Bienvenue, voici le projet d'affichage de température avec un RaspBerry pi. En utilisant quelques outils nous vous proposons ce résultat.
 
 **Le Matériels:**
-Nous avons utiliser :
+Nous avons utilisés :
 
 - Un Raspberry pi 3
 - Un capteur de temperature ```MCP9808```
