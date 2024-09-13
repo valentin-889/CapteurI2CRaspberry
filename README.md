@@ -1,4 +1,4 @@
-# CAPTEUR DE TEMEPERATURE ET RASPBERRY
+# CAPTEUR DE TEMPERATURE ET RASPBERRY
 
 Bienvenue, voici le projet d'affichage de température avec un RaspBerry pi. En utilisant quelques outils nous vous proposons ce résultat.
 
